@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarthak Sanay! 👋</h1>
+<h1 align="left">Hi, I'm Sarthak Sanay! 👋</h1>
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sanaysarthak&show_icons=true&locale=en&theme=tokyonight" alt="sanaysarthak" /></p>
 
 <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaysarthak&theme=tokyonight" alt="sanaysarthak" /></p>
@@ -17,7 +17,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
