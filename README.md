@@ -1,6 +1,6 @@
-<p><img width="45%" src="https://github-readme-stats.vercel.app/api?username=sanaysarthak&show_icons=true&locale=en&theme=dracula" alt="sanaysarthak" /></p>
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sanaysarthak&show_icons=true&locale=en&theme=dracula" alt="sanaysarthak" /></p>
 
-<p><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaysarthak&theme=dracula" alt="sanaysarthak" /></p>
+<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaysarthak&theme=dracula" alt="sanaysarthak" /></p>
 
 <!--
 **sanaysarthak/sanaysarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
