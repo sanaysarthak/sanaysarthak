@@ -3,6 +3,10 @@
 
 <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaysarthak&theme=tokyonight" alt="sanaysarthak" /></p>
 
+<a href="https://tryhackme.com/p/sarthakkk">
+  <img src="https://cybersarthak.github.io/thm-badge/tryhackme_badge.png" alt="Sarthak's TryHackMe Badge" style="width: 54%;">
+</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
