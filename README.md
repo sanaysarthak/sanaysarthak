@@ -1,9 +1,7 @@
 <h1 align="left">Hi, I'm Sarthak Sanay! 👋</h1>
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sanaysarthak&show_icons=true&locale=en&theme=tokyonight" alt="sanaysarthak" /></p>
 
-<!-- <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaysarthak&theme=tokyonight" alt="sanaysarthak" /></p> -->
-
-<p><img width="50%" src="https://github-streak-stats-dun.vercel.app?user=sanaysarthak&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="sanaysarthak" /></p>
+<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaysarthak&theme=tokyonight" alt="sanaysarthak" /></p>
 
 <a href="https://tryhackme.com/p/sarthakkk">
   <img src="https://cybersarthak.github.io/thm-badge/tryhackme_badge.png" alt="sanaysarthak" style="width: 54%;">
